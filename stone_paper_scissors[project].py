@@ -25,6 +25,7 @@ scissors = '''
        __________)
       (____)
 ---.__(___)       SCISSORS'''
+
 game_images =[rock, paper, scissors]
 user_choice = int(input("what do you chose? Type 0 for rock, Type 1 for paper and Type 2 for scissors\n "))
 if user_choice >=0 and user_choice <=2:
